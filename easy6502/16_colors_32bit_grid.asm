@@ -1,44 +1,47 @@
-LDA #$01
+LDA #$00
 STA $0200
 
-LDA #$02
+LDA #$01
 STA $0240
 
-LDA #$03
+LDA #$02
 STA $0280
 
-LDA #$04
+LDA #$03
 STA $02c0
 
-LDA #$05
+LDA #$04
 STA $0300
 
-LDA #$06
+LDA #$05
 STA $0340
 
-LDA #$07
+LDA #$06
 STA $0380
 
-LDA #$08
+LDA #$07
 STA $03c0
 
-LDA #$09
+LDA #$08
 STA $0400
 
-LDA #$0a
+LDA #$09
 STA $0440
 
-LDA #$0b
+LDA #$0a
 STA $0480
 
-LDA #$0c
+LDA #$0b
 STA $04c0
 
-LDA #$0d
+LDA #$0c
 STA $0500
 
-LDA #$0e
+LDA #$0d
 STA $0540
 
-LDA #$0f
+LDA #$0e
 STA $0580
+
+LDA #$0f
+STA $05c0
