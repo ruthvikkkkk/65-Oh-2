@@ -1,0 +1,44 @@
+LDA #$01
+STA $0200
+
+LDA #$02
+STA $0240
+
+LDA #$03
+STA $0280
+
+LDA #$04
+STA $02c0
+
+LDA #$05
+STA $0300
+
+LDA #$06
+STA $0340
+
+LDA #$07
+STA $0380
+
+LDA #$08
+STA $03c0
+
+LDA #$09
+STA $0400
+
+LDA #$0a
+STA $0440
+
+LDA #$0b
+STA $0480
+
+LDA #$0c
+STA $04c0
+
+LDA #$0d
+STA $0500
+
+LDA #$0e
+STA $0540
+
+LDA #$0f
+STA $0580
